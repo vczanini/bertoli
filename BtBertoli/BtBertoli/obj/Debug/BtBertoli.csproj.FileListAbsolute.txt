@@ -1,0 +1,11 @@
+D:\Alura\BtBertoli\BtBertoli\bin\Debug\BtBertoli.exe.config
+D:\Alura\BtBertoli\BtBertoli\bin\Debug\BtBertoli.exe
+D:\Alura\BtBertoli\BtBertoli\bin\Debug\BtBertoli.pdb
+D:\Alura\BtBertoli\BtBertoli\obj\Debug\BtBertoli.csproj.AssemblyReference.cache
+D:\Alura\BtBertoli\BtBertoli\obj\Debug\BtBertoli.csproj.SuggestedBindingRedirects.cache
+D:\Alura\BtBertoli\BtBertoli\obj\Debug\BtBertoli.Eletroestimulador.resources
+D:\Alura\BtBertoli\BtBertoli\obj\Debug\BtBertoli.Properties.Resources.resources
+D:\Alura\BtBertoli\BtBertoli\obj\Debug\BtBertoli.csproj.GenerateResource.cache
+D:\Alura\BtBertoli\BtBertoli\obj\Debug\BtBertoli.csproj.CoreCompileInputs.cache
+D:\Alura\BtBertoli\BtBertoli\obj\Debug\BtBertoli.exe
+D:\Alura\BtBertoli\BtBertoli\obj\Debug\BtBertoli.pdb
